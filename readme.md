@@ -1,1 +1,4 @@
-# heloo is this me
+# git course
+This is akailn
+
+# poda 
